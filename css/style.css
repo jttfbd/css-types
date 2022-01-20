@@ -1,0 +1,10 @@
+body{
+    background-image: url("img/bg.jpg");
+}
+.exCSSCl{
+    font-size: 25px;    
+}
+#exCSSId{
+    background-color: red;
+    background-image: radial-gradient(red, yellow);
+}
